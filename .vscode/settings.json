@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Kuş Oyunu.sln"
+    "dotnet.defaultSolution": "oyunyapma.sln"
 }
